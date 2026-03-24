@@ -1,4 +1,5 @@
-
+CREATE DATABASE CrowdfundingDB;
+GO
 -- =============================================================================
 USE CrowdfundingDB;
 GO
